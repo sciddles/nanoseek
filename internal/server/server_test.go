@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tosekk/nanoseek/internal/index"
+	"github.com/sciddles/nanoseek/internal/index"
 )
 
 func newTestServer(t *testing.T, dataPath string) http.Handler {
