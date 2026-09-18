@@ -17,8 +17,8 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/tosekk/nanoseek/internal/index"
-	"github.com/tosekk/nanoseek/internal/server"
+	"github.com/sciddles/nanoseek/internal/index"
+	"github.com/sciddles/nanoseek/internal/server"
 )
 
 const defaultData = "data/corpus.jsonl"
