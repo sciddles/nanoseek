@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/tosekk/nanoseek/internal/index"
+	"github.com/sciddles/nanoseek/internal/index"
 )
 
 //go:embed static
