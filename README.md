@@ -37,7 +37,7 @@ a result where it is.
 Needs Go 1.24 or newer. Nothing else.
 
 ```bash
-git clone https://github.com/tosekk/nanoseek.git
+git clone https://github.com/sciddles/nanoseek.git
 cd nanoseek
 go run ./cmd/nanoseek serve
 ```
