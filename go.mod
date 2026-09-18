@@ -1,3 +1,3 @@
-module github.com/tosekk/nanoseek
+module github.com/sciddles/nanoseek
 
 go 1.24
